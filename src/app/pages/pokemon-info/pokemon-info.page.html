@@ -43,9 +43,10 @@
   </div>
   
   <div id="pokemonInfo">
-      <div class="name">{{ pokemon.name }} <span>N.º{{ formatId(pokemon.id) }}</span></div>
+    <div class="name">{{ pokemon.name }} <span>N.º{{ formatId(pokemon.id) }}</span></div>
     <img src="../../../assets/images/pokemons/{{pokemon.image}}" width="250px" height="250px">
     <app-data-and-description [pokemon]="pokemon"></app-data-and-description>
     <app-types-and-weaknesses [pokemon]="pokemon"></app-types-and-weaknesses>
-    </div>
+    <app-chart-stats [pokemon]="pokemon"></app-chart-stats>
+  </div>
 </ion-content>
