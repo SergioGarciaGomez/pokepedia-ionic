@@ -24,3 +24,93 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+// COLORES EN FUNCIÓN DEL TIPO DEL POKÉMON
+#grassType {
+    background-color: rgb(48, 192, 55);
+    color: #fff;
+}
+
+#fireType {background-color: rgb(255, 115, 0);
+    color: #fff;
+}
+
+#waterType {
+    background-color: rgb(48, 162, 255);
+    color: #fff;
+}
+
+#bugType {
+    background-color: #729F3F;
+    color: #fff;
+}
+
+#fightingType {
+    background-color: #8f4010;
+    color: #fff;
+}
+
+#normalType {
+    background-color: rgb(139, 139, 139);
+    color: #fff;
+}
+
+#ghostType {
+    background-color: #7B62A3;
+    color: #fff;
+}
+
+#steelType {
+    background-color: #9EB7B8;
+    color: #fff;
+}
+
+#psychicType {
+    background-color: #F366B9;
+    color: #fff;
+}
+
+#fairyType {
+    background-color: #FDB9E9;
+    color: #fff;
+}
+
+#dragonType {
+    background: linear-gradient(rgb(0, 92, 179) 50%, #ff4b4b 50%);
+    color: #fff;
+}
+
+#flyingType {
+    background: linear-gradient(rgb(61, 199, 239) 50%, rgb(149, 149, 149) 50%);
+    color: #fff; 
+}
+
+#rockType {
+    background-color: #A38C21;
+    color: #fff;
+}
+
+#iceType {
+    background-color: rgb(0, 217, 255);
+    color: #fff;
+}
+
+#poisonType {
+    background-color: #B97FC9;
+    color: #fff;
+}
+
+#darkType {
+    background-color: #707070;
+    color: #fff;
+}
+
+#electricType {
+    background-color: rgb(255, 238, 0);
+    color: #000;
+}
+
+#groundType {
+    background: linear-gradient(rgb(229, 255, 0) 50%, #ffd573 50%);
+    color: #000;
+}

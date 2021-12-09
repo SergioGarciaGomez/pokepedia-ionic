@@ -1,0 +1,32 @@
+<div id="container">
+
+  <div class="description">{{pokemon.description}}</div>
+
+  <div class="dataContainer">
+
+      <div id="PesoAltura" class="column">
+          <div class="text">
+              <span>Altura<br></span> {{ pokemon.height.toFixed(1) }}m
+          </div>
+          <div class="text">
+          <span>Peso<br></span> {{ pokemon.weight.toFixed(2) }}kg
+          </div>
+      </div>
+      
+      <div id="abilities" class="text">
+          
+          <span>Habilidades<br></span>
+          <!-- Devuelve un array con las habilidades del pokémon este en concreto -->
+          <div *ngFor="let a of getAbilitiesFromPokemon(pokemon)">
+              <!-- Ventanas emergentes para mostrar la info de habilidad en función de si es la primera, o la segunda habilidad -->
+              <div *ngIf="getAbilitiesFromPokemon(pokemon)[0].abilityId === a.abilityId">
+                <div>{{a.abilityName}} <ion-icon name="information-circle-outline"></ion-icon></div> <br><br>
+              </div>
+
+              <div *ngIf="getAbilitiesFromPokemon(pokemon)[0].abilityId != a.abilityId">
+                <div>{{a.abilityName}} <ion-icon name="information-circle-outline"></ion-icon></div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>

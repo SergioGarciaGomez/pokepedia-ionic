@@ -1,0 +1,40 @@
+@font-face {
+    font-family: flexo;
+    src: url("../../../assets/fonts/Flexo-Medium.ttf");
+}
+
+ion-content {
+    padding: 0;
+    margin: 0;
+}
+
+ion-card {
+    font-family: flexo;
+    padding: 0;
+}
+
+ion-card-header {
+    padding: 0 10px;
+}
+
+ion-card-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
+
+ion-card-subtitle {
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-bottom: 2px solid gray;
+}
+
+ion-card-content {
+    padding: 0 10px;
+}
+
+.typeBox {
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 8px 0;
+}

@@ -1,0 +1,44 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="end">
+      <ion-menu-button menu="mainMenu" color="primary"></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Pokédex</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding ion-text-center">
+  <ion-card (click)="goPokemonInfo(pokemon.id)" *ngFor="let pokemon of pokemons">
+    <img src="../../../assets/images/pokemons/{{pokemon.image}}" width="205px" height="205px"/>
+    <ion-card-header>
+      <ion-card-subtitle>
+        <div id="text">
+          Nº.{{generalService.formatId(pokemon.id)}}
+        </div> 
+      </ion-card-subtitle>
+      <ion-card-title>{{pokemon.name}}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <div id="types" *ngFor="let t of pokemon.type">
+        <p id="grassType" class="typeBox" *ngIf="t === 'Planta'">{{t}}</p>
+        <p id="fireType" class="typeBox" *ngIf="t === 'Fuego'">{{t}}</p>
+        <p id="waterType" class="typeBox" *ngIf="t === 'Agua'">{{t}}</p>
+        <p id="flyingType" class="typeBox" *ngIf="t === 'Volador'">{{t}}</p>
+        <p id="bugType" class="typeBox" *ngIf="t === 'Bicho'">{{t}}</p>
+        <p id="fightingType" class="typeBox" *ngIf="t === 'Lucha'">{{t}}</p>
+        <p id="normalType" class="typeBox" *ngIf="t === 'Normal'">{{t}}</p>
+        <p id="ghostType" class="typeBox" *ngIf="t === 'Fantasma'">{{t}}</p>
+        <p id="groundType" class="typeBox" *ngIf="t === 'Tierra'">{{t}}</p>
+        <p id="steelType" class="typeBox" *ngIf="t === 'Acero'">{{t}}</p>
+        <p id="electricType" class="typeBox" *ngIf="t === 'Eléctrico'">{{t}}</p>
+        <p id="psychicType" class="typeBox" *ngIf="t === 'Psíquico'">{{t}}</p>
+        <p id="darkType" class="typeBox" *ngIf="t === 'Siniestro'">{{t}}</p>
+        <p id="iceType" class="typeBox" *ngIf="t === 'Hielo'">{{t}}</p>
+        <p id="poisonType" class="typeBox" *ngIf="t === 'Veneno'">{{t}}</p>
+        <p id="rockType" class="typeBox" *ngIf="t === 'Roca'">{{t}}</p>
+        <p id="dragonType" class="typeBox" *ngIf="t === 'Dragón'">{{t}}</p>
+        <p id="fairyType" class="typeBox" *ngIf="t === 'Hada'">{{t}}</p>
+    </div>
+    </ion-card-content>
+  </ion-card>
+</ion-content>

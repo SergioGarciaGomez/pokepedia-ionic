@@ -1,0 +1,51 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-menu-button menu="mainMenu" color="primary"></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Información</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding ion-text-center">
+
+  <div class="columnAnteriorSiguiente" id="anterior">
+    <!-- Si el id es == 1, muestra el anterior a él, que sería el último de la lista -->
+    <div *ngIf="pokemon.id === 1" (click)="goPokemonInfo(pUltimo.id)">
+      <div>
+        <ion-icon name="chevron-back-outline"></ion-icon>
+        <span>N.º{{ formatId(pUltimo.id) }}</span> {{ pUltimo.name }}
+      </div>
+    </div>
+    <div *ngIf="pokemon.id > 1" (click)="goPokemonInfo(pAnterior.id)">
+      <div>
+        <ion-icon name="chevron-back-outline"></ion-icon>
+        <span>N.º{{ formatId(pAnterior.id) }}</span> {{ pAnterior.name }}
+      </div>
+    </div>  
+  </div>
+
+  <div class="columnAnteriorSiguiente" id="siguiente">
+    <!-- Si este es el último de la lista, el siguiente Pokémon que muestra es el primero de la lista-->
+    <div *ngIf="pokemon.id == pUltimo.id" (click)="goPokemonInfo(pPrimero.id)"> 
+      <div>{{ pPrimero.name }} <span>N.º{{ formatId(pPrimero.id) }}</span>
+        <ion-icon name="chevron-forward-outline"></ion-icon>
+      </div>
+    </div>
+    <div *ngIf="pokemon.id != pUltimo.id" (click)="goPokemonInfo(pSiguiente.id)"> 
+      <div>{{ pSiguiente.name }} <span>N.º{{ formatId(pSiguiente.id) }}</span>
+        <ion-icon name="chevron-forward-outline"></ion-icon>
+      </div>
+    </div>
+  </div>
+  
+  <div id="pokemonInfo">
+      <div class="name">{{ pokemon.name }} <span>N.º{{ formatId(pokemon.id) }}</span></div>
+    <img src="../../../assets/images/pokemons/{{pokemon.image}}" width="250px" height="250px">
+    <app-data-and-description [pokemon]="pokemon"></app-data-and-description>
+    <app-types-and-weaknesses [pokemon]="pokemon"></app-types-and-weaknesses>
+    </div>
+</ion-content>

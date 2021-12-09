@@ -1,0 +1,1337 @@
+[
+    {
+        "abilityId": 1, 
+        "abilityName": "Hedor",
+        "abilityDescription": "Puede amedrentar al rival al atacarlo debido al mal olor que emana."
+    },
+    {
+        "abilityId": 2, 
+        "abilityName": "Llovizna",
+        "abilityDescription": "Hace que llueva al entrar en combate."
+    },
+    {
+        "abilityId": 3, 
+        "abilityName": "Impulso",
+        "abilityDescription": "Aumenta su velocidad en cada turno."
+    },
+    {
+        "abilityId": 4, 
+        "abilityName": "Armadura batalla",
+        "abilityDescription": "La robusta coraza que lo protege bloquea los golpes críticos."
+    },
+    {
+        "abilityId": 5, 
+        "abilityName": "Robustez",
+        "abilityDescription": "Evita que el rival pueda debilitarlo de un solo golpe cuando tiene los PS al máximo. También evita los movimientos fulminantes."
+    },
+    {
+        "abilityId": 6, 
+        "abilityName": "Humedad",
+        "abilityDescription": "Aumenta la humedad del entorno y evita que se puedan utilizar movimientos explosivos, tales como autodestrucción"
+    },
+    {
+        "abilityId": 7, 
+        "abilityName": "Flexibilidad",
+        "abilityDescription": "Evita ser paralizado gracias a la flexibilidad de su cuerpo."
+    },
+    {
+        "abilityId": 8, 
+        "abilityName": "Velo arena",
+        "abilityDescription": "Aumenta su evasión durante las tormentas de arena."
+    },
+    {
+        "abilityId": 9, 
+        "abilityName": "Electricidad estática",
+        "abilityDescription": "La electricidad estática que lo envuelve puede paralizar al mínimo contacto."
+    },
+    {
+        "abilityId": 10, 
+        "abilityName": "Absorbe electricidad",
+        "abilityDescription": "Si le alcanza un movimiento de tipo eléctrico, recupera PS en vez de sufrir daño."
+    },
+    {
+        "abilityId": 11, 
+        "abilityName": "Absorbe agua",
+        "abilityDescription": "Si le alcanza un movimiento de tipo agua, recupera PS en vez de sufrir daño."
+    },
+    {
+        "abilityId": 12, 
+        "abilityName": "Despiste",
+        "abilityDescription": "Su indiferencia evita que sea provocado o caiga presa del enamoramiento."
+    },
+    {
+        "abilityId": 13, 
+        "abilityName": "Aclimatación",
+        "abilityDescription": "Anula todos los efectos del tiempo atmosférico."
+    },
+    {
+        "abilityId": 14, 
+        "abilityName": "Ojo compuesto",
+        "abilityDescription": "Aumenta la precisión de sus movimientos."
+    },
+    {
+        "abilityId": 15, 
+        "abilityName": "Insomnio",
+        "abilityDescription": "Su resistencia al sueño le impide quedarse dormido."
+    },
+    {
+        "abilityId": 16, 
+        "abilityName": "Cambio color",
+        "abilityDescription": "Adopta el tipo del último movimiento del que es blanco."
+    },
+    {
+        "abilityId": 17, 
+        "abilityName": "Inmunidad",
+        "abilityDescription": "Su sistema inmunitario evita el envenenamiento."
+    },
+    {
+        "abilityId": 18, 
+        "abilityName": "Absorbe fuego",
+        "abilityDescription": "Si le alcanza algún movimiento de tipo fuego, potencia sus propios movimientos de dicho tipo."
+    },
+    {
+        "abilityId": 19, 
+        "abilityName": "Polvo escudo",
+        "abilityDescription": "El polvo de escamas que lo envuelve lo protege de los efectos secundarios de los ataques recibidos."
+    },
+    {
+        "abilityId": 20, 
+        "abilityName": "Ritmo propio",
+        "abilityDescription": "Como le gusta hacer las cosas a su manera, los rivales no logran confundirlo."
+    },
+    {
+        "abilityId": 21, 
+        "abilityName": "Ventosas",
+        "abilityDescription": "Sus ventosas se aferran al suelo, con lo cual anula movimientos y objetos que fuerzan el relevo."
+    },
+    {
+        "abilityId": 22, 
+        "abilityName": "Intimidación",
+        "abilityDescription": "Al entrar en combate amilana al rival de tal manera que su ataque disminuye."
+    },
+    {
+        "abilityId": 23, 
+        "abilityName": "Sombra trampa",
+        "abilityDescription": "Impide que el enemigo huya o sea cambiado por otro."
+    },
+    {
+        "abilityId": 24, 
+        "abilityName": "Piel tosca",
+        "abilityDescription": "Hiere con su piel áspera al rival que lo ataque con un movimiento de contacto."
+    },
+    {
+        "abilityId": 25, 
+        "abilityName": "Superguarda",
+        "abilityDescription": "Gracias a un poder misterioso, solo le hacen daño los movimientos supereficaces."
+    },
+    {
+        "abilityId": 26, 
+        "abilityName": "Levitación",
+        "abilityDescription": "Su capacidad de flotar sobre el suelo le proporciona inmunidad frente a los movimientos de tipo tierra."
+    },
+    {
+        "abilityId": 27, 
+        "abilityName": "Efecto espora",
+        "abilityDescription": "Puede dormir, envenenar o paralizar al Pokémon con el que entre en contacto al recibir un ataque."
+    },
+    {
+        "abilityId": 28, 
+        "abilityName": "Sincronía",
+        "abilityDescription": "Contagia el envenenamiento, las quemaduras o la parálisis al Pokémon que le cause ese estado."
+    },
+    {
+        "abilityId": 29, 
+        "abilityName": "Cuerpo duro",
+        "abilityDescription": "Evita que bajen sus características a causa de movimientos o habilidades de otros Pokémon."
+    },
+    {
+        "abilityId": 30, 
+        "abilityName": "Cura natural",
+        "abilityDescription": "Cura sus problemas de estado al cambiarse con otro Pokémon."
+    },
+    {
+        "abilityId": 31, 
+        "abilityName": "Pararrayos",
+        "abilityDescription": "Atrae y neutraliza los movimientos de tipo eléctrico, que además le suben el ataque especial."
+    },
+    {
+        "abilityId": 32, 
+        "abilityName": "Dicha",
+        "abilityDescription": "Aumenta la probabilidad de que los movimientos causen efectos secundarios."
+    },
+    {
+        "abilityId": 33, 
+        "abilityName": "Nado rápido",
+        "abilityDescription": "Sube su velocidad cuando llueve."
+    },
+    {
+        "abilityId": 34, 
+        "abilityName": "Clorofila",
+        "abilityDescription": "Sube su velocidad cuando hace sol."
+    },
+    {
+        "abilityId": 35, 
+        "abilityName": "Iluminación",
+        "abilityDescription": "Aumenta la probabilidad de encontrar Pokémon al iluminar el entorno."
+    },
+    {
+        "abilityId": 36, 
+        "abilityName": "Rastro",
+        "abilityDescription": "Al entrar en combate copia la habilidad del rival."
+    },
+    {
+        "abilityId": 37, 
+        "abilityName": "Potencia",
+        "abilityDescription": "Duplica la potencia de sus ataques físicos."
+    },
+    {
+        "abilityId": 38, 
+        "abilityName": "Punto tóxico",
+        "abilityDescription": "Puede envenenar al mínimo contacto."
+    },
+    {
+        "abilityId": 39, 
+        "abilityName": "Foco interno",
+        "abilityDescription": "Gracias a su profunda concentración, no se amedrenta ante los ataques del rival."
+    },
+    {
+        "abilityId": 40, 
+        "abilityName": "Escudo magma",
+        "abilityDescription": "Gracias al magma candente que lo envuelve, no puede ser congelado."
+    },
+    {
+        "abilityId": 41, 
+        "abilityName": "Velo agua",
+        "abilityDescription": "Evita las quemaduras gracias a la capa de agua que lo envuelve."
+    },
+    {
+        "abilityId": 42, 
+        "abilityName": "Imán",
+        "abilityDescription": "Su magnetismo atrae a los Pokémon de tipo acero y les impide huir."
+    },
+    {
+        "abilityId": 43, 
+        "abilityName": "Insonorizar",
+        "abilityDescription": "Su aislamiento acústico lo protege de movimientos que usan sonido."
+    },
+    {
+        "abilityId": 44, 
+        "abilityName": "Cura lluvia",
+        "abilityDescription": "Recupera PS de forma gradual cuando llueve."
+    },
+    {
+        "abilityId": 45, 
+        "abilityName": "Chorro arena",
+        "abilityDescription": "Crea una tormenta de arena al entrar en combate."
+    },
+    {
+        "abilityId": 46, 
+        "abilityName": "Presión",
+        "abilityDescription": "Presiona al rival para que sus PP se acaben antes."
+    },
+    {
+        "abilityId": 47, 
+        "abilityName": "Sebo",
+        "abilityDescription": "Gracias a la gruesa capa de grasa que lo protege, reduce a la mitad el daño que recibe de ataques de tipo fuego y hielo."
+    },
+    {
+        "abilityId": 48, 
+        "abilityName": "Madrugar",
+        "abilityDescription": "Si se duerme, tardará la mitad de tiempo en despertarse."
+    },
+    {
+        "abilityId": 49, 
+        "abilityName": "Cuerpo llama",
+        "abilityDescription": "Puede quemar al mínimo contacto."
+    },
+    {
+        "abilityId": 50, 
+        "abilityName": "Fuga",
+        "abilityDescription": "Puede escaparse de todos los Pokémon salvajes."
+    },
+    {
+        "abilityId": 51, 
+        "abilityName": "Vista lince",
+        "abilityDescription": "Su aguda vista evita que le disminuya la precisión."
+    },
+    {
+        "abilityId": 52, 
+        "abilityName": "Corte fuerte",
+        "abilityDescription": "Evita que el rival le baje el ataque."
+    },
+    {
+        "abilityId": 53, 
+        "abilityName": "Recogida",
+        "abilityDescription": "Puede recoger objetos que el rival haya usado, o bien otros que encuentre en plena aventura."
+    },
+    {
+        "abilityId": 54, 
+        "abilityName": "Ausente",
+        "abilityDescription": "Al ejecutar un movimiento, descansará en el turno siguiente."
+    },
+    {
+        "abilityId": 55, 
+        "abilityName": "Entusiasmo",
+        "abilityDescription": "Aumenta su ataque, pero reduce su precisión."
+    },
+    {
+        "abilityId": 56, 
+        "abilityName": "Gran encanto",
+        "abilityDescription": "Puede causar enamoramiento al rival que lo toque."
+    },
+    {
+        "abilityId": 57, 
+        "abilityName": "Más",
+        "abilityDescription": "Potencia su ataque especial si un Pokémon aliado tiene la habilidad más o menos."
+    },
+    {
+        "abilityId": 58, 
+        "abilityName": "Menos",
+        "abilityDescription": "Potencia su ataque especial si un Pokémon aliado tiene la habilidad más o menos."
+    },
+    {
+        "abilityId": 59, 
+        "abilityName": "Predicción",
+        "abilityDescription": "Cambia a tipo agua, fuego o hielo en función del tiempo atmosférico."
+    },
+    {
+        "abilityId": 60, 
+        "abilityName": "Viscosidad",
+        "abilityDescription": "Los objetos se quedan pegados a su cuerpo, por lo que no pueden robárselos."
+    },
+    {
+        "abilityId": 61, 
+        "abilityName": "Mudar",
+        "abilityDescription": "Puede curar sus problemas de estado al mudar la piel."
+    },
+    {
+        "abilityId": 62, 
+        "abilityName": "Agallas",
+        "abilityDescription": "Si sufre un problemas de estado, se viene arriba y aumenta su ataque."
+    },
+    {
+        "abilityId": 63, 
+        "abilityName": "Escama especial",
+        "abilityDescription": "Sube su defensa si sufre un problemas de estado."
+    },
+    {
+        "abilityId": 64, 
+        "abilityName": "Lodo líquido",
+        "abilityDescription": "Exuda una sustancia tóxica de intenso hedor que hiere a quienes intentan drenarle PS."
+    },
+    {
+        "abilityId": 65, 
+        "abilityName": "Espesura",
+        "abilityDescription": "Potencia sus movimientos de tipo planta cuando le quedan pocos PS."
+    },
+    {
+        "abilityId": 66, 
+        "abilityName": "Mar llamas",
+        "abilityDescription": "Potencia sus movimientos de tipo fuego cuando le quedan pocos PS."
+    },
+    {
+        "abilityId": 67, 
+        "abilityName": "Torrente",
+        "abilityDescription": "Potencia sus movimientos de tipo agua cuando le quedan pocos PS."
+    },
+    {
+        "abilityId": 68, 
+        "abilityName": "Enjambre",
+        "abilityDescription": "Potencia sus movimientos de tipo bicho cuando le quedan pocos PS."
+    },
+    {
+        "abilityId": 69, 
+        "abilityName": "Cabeza roca",
+        "abilityDescription": "No puede dañarse con sus propios movimientos."
+    },
+    {
+        "abilityId": 70, 
+        "abilityName": "Sequía",
+        "abilityDescription": "Cuando entra en combate, el tiempo pasa a ser soleado."
+    },
+    {
+        "abilityId": 71, 
+        "abilityName": "Trampa arena",
+        "abilityDescription": "Evita que el rival huya."
+    },
+    {
+        "abilityId": 72, 
+        "abilityName": "Espíritu vital",
+        "abilityDescription": "Su determinación le impide quedarse dormido."
+    },
+    {
+        "abilityId": 73, 
+        "abilityName": "Humo blanco",
+        "abilityDescription": "El humo blanco que lo protege evita que otros Pokémon le bajen las características."
+    },
+    {
+        "abilityId": 74, 
+        "abilityName": "Energía pura",
+        "abilityDescription": "Duplica la potencia de sus ataques físicos gracias al yoga."
+    },
+    {
+        "abilityId": 75, 
+        "abilityName": "Caparazón",
+        "abilityDescription": "La robusta coraza que lo protege bloquea los golpes críticos."
+    },
+    {
+        "abilityId": 76, 
+        "abilityName": "Bucle aire",
+        "abilityDescription": "Neutraliza todos los efectos del tiempo atmosférico."
+    },
+    {
+        "abilityId": 77, 
+        "abilityName": "Tumbos",
+        "abilityDescription": "Sube su evasión si está confuso."
+    },
+    {
+        "abilityId": 78, 
+        "abilityName": "Electromotor",
+        "abilityDescription": "Si le alcanza un movimiento de tipo eléctrico, le sube la velocidad en vez de sufrir daño."
+    },
+    {
+        "abilityId": 79, 
+        "abilityName": "Rivalidad",
+        "abilityDescription": "Si el objetivo es del mismo sexo, su competitividad le lleva a infligir más daño. Si es del sexo contrario, en cambio, el daño será menor."
+    },
+    {
+        "abilityId": 80, 
+        "abilityName": "Impasible",
+        "abilityDescription": "Cada vez que se amedrenta sube su velocidad, debido a su voluntad inquebrantable."
+    },
+    {
+        "abilityId": 81, 
+        "abilityName": "Manto níveo",
+        "abilityDescription": "Sube la evasión cuando graniza."
+    },
+    {
+        "abilityId": 82, 
+        "abilityName": "Gula",
+        "abilityDescription": "Cuando sus PS se ven reducidos a la mitad, engulle la baya que normalmente solo se comería cuando le quedasen pocos PS."
+    },
+    {
+        "abilityId": 83, 
+        "abilityName": "Irascible",
+        "abilityDescription": "Si recibe un golpe crítico, monta en cólera y sube su ataque hasta el máximo."
+    },
+    {
+        "abilityId": 84, 
+        "abilityName": "Liviano",
+        "abilityDescription": "Sube su velocidad si usa o pierde el objeto que lleva."
+    },
+    {
+        "abilityId": 85, 
+        "abilityName": "Ignífugo",
+        "abilityDescription": "Su cuerpo, resistente al calor, reduce a la mitad el daño recibido por movimientos de tipo fuego."
+    },
+    {
+        "abilityId": 86, 
+        "abilityName": "Simple",
+        "abilityDescription": "Duplica los cambios en las características."
+    },
+    {
+        "abilityId": 87, 
+        "abilityName": "Piel seca",
+        "abilityDescription": "Pierde PS si hace sol y los recupera si llueve o recibe un movimiento de tipo agua. Los movimientos de tipo fuego, por su parte, le hacen más daño de lo normal."
+    },
+    {
+        "abilityId": 88, 
+        "abilityName": "Descarga",
+        "abilityDescription": "Compara la defensa y la defensa especial del rival para ver cuál es inferior y aumenta su propio ataque o ataque especial, según sea lo más eficaz."
+    },
+    {
+        "abilityId": 89, 
+        "abilityName": "Puño férreo",
+        "abilityDescription": "Aumenta la potencia de los puñetazos."
+    },
+    {
+        "abilityId": 90, 
+        "abilityName": "Antídoto",
+        "abilityDescription": "Si resulta envenenado, recupera PS en vez de perderlos."
+    },
+    {
+        "abilityId": 91, 
+        "abilityName": "Adaptable",
+        "abilityDescription": "Potencia aún más los movimientos cuyo tipo coincida con el suyo."
+    },
+    {
+        "abilityId": 92, 
+        "abilityName": "Encadenado",
+        "abilityDescription": "Ejecuta siempre los movimientos múltiples con el número máximo de golpes."
+    },
+    {
+        "abilityId": 93, 
+        "abilityName": "Hidratación",
+        "abilityDescription": "Cura los problemas de estado si está lloviendo."
+    },
+    {
+        "abilityId": 94, 
+        "abilityName": "Poder solar",
+        "abilityDescription": "Si hace sol, aumenta su ataque especial, pero pierde PS en cada turno."
+    },
+    {
+        "abilityId": 95, 
+        "abilityName": "Pies rápidos",
+        "abilityDescription": "Aumenta la velocidad si sufre problemas de estado."
+    },
+    {
+        "abilityId": 96, 
+        "abilityName": "Normalidad",
+        "abilityDescription": "Hace que todos sus movimientos se vuelvan de tipo normal y aumenten ligeramente su potencia."
+    },
+    {
+        "abilityId": 97, 
+        "abilityName": "Francotirador",
+        "abilityDescription": "Potencia los golpes críticos que asesta aún más de lo normal."
+    },
+    {
+        "abilityId": 98, 
+        "abilityName": "Muro mágico",
+        "abilityDescription": "Solo recibe daño de ataques."
+    },
+    {
+        "abilityId": 99, 
+        "abilityName": "Indefenso",
+        "abilityDescription": "Al quedar ambos expuestos, tanto sus movimientos como los del rival acertarán siempre."
+    },
+    {
+        "abilityId": 100, 
+        "abilityName": "Rezagado",
+        "abilityDescription": "Ejecuta su movimiento tras todos los demás."
+    },
+    {
+        "abilityId": 101, 
+        "abilityName": "Experto",
+        "abilityDescription": "Potencia sus movimientos más débiles."
+    },
+    {
+        "abilityId": 102, 
+        "abilityName": "Defensa hoja",
+        "abilityDescription": "Evita los problemas de estado si hace sol."
+    },
+    {
+        "abilityId": 103, 
+        "abilityName": "Zoquete",
+        "abilityDescription": "No puede usar objetos equipados."
+    },
+    {
+        "abilityId": 104, 
+        "abilityName": "Rompemoldes",
+        "abilityDescription": "Las habilidades del objetivo no afectan a los movimientos que emplea."
+    },
+    {
+        "abilityId": 105, 
+        "abilityName": "Afortunado",
+        "abilityDescription": "Su buena suerte aumenta la probabilidad de asestar golpes críticos."
+    },
+    {
+        "abilityId": 106, 
+        "abilityName": "Detonación",
+        "abilityDescription": "Daña al agresor que le ha dado el golpe de gracia con un movimiento de contacto."
+    },
+    {
+        "abilityId": 107, 
+        "abilityName": "Anticipación",
+        "abilityDescription": "Prevé los movimientos peligrosos del rival."
+    },
+    {
+        "abilityId": 108, 
+        "abilityName": "Alerta",
+        "abilityDescription": "Indica el movimiento más potente del rival al entrar en combate."
+    },
+    {
+        "abilityId": 109, 
+        "abilityName": "Ignorante",
+        "abilityDescription": "Pasa por alto las mejoras en las características del rival al atacar."
+    },
+    {
+        "abilityId": 110, 
+        "abilityName": "Cromolente",
+        "abilityDescription": "Potencia los movimientos que no son muy eficaces, que infligen ahora un daño normal."
+    },
+    {
+        "abilityId": 111, 
+        "abilityName": "Filtro",
+        "abilityDescription": "Mitiga el daño que le infligen los movimientos supereficaces."
+    },
+    {
+        "abilityId": 112, 
+        "abilityName": "Inicio lento",
+        "abilityDescription": "Baja a la mitad su ataque y su velocidad durante cinco turnos."
+    },
+    {
+        "abilityId": 113, 
+        "abilityName": "Intrépido",
+        "abilityDescription": "Puede alcanzar a Pokémon de tipo fantasma con movimientos de tipo normal o lucha."
+    },
+    {
+        "abilityId": 114, 
+        "abilityName": "Colector",
+        "abilityDescription": "Atrae y neutraliza los movimientos de tipo agua, que además le suben el ataque especial."
+    },
+    {
+        "abilityId": 115, 
+        "abilityName": "Gélido",
+        "abilityDescription": "Recupera PS de forma gradual cuando hay tormentas de granizo."
+    },
+    {
+        "abilityId": 116, 
+        "abilityName": "Roca sólido",
+        "abilityDescription": "Mitiga el daño que le infligen los movimientos supereficaces."
+    },
+    {
+        "abilityId": 117, 
+        "abilityName": "Nevada",
+        "abilityDescription": "Invoca una tormenta de granizo al entrar en combate."
+    },
+    {
+        "abilityId": 118, 
+        "abilityName": "Recogemiel",
+        "abilityDescription": "Puede que encuentre miel una vez concluido el combate."
+    },
+    {
+        "abilityId": 119, 
+        "abilityName": "Cacheo",
+        "abilityDescription": "Puede ver el objeto que lleva el rival al entrar en combate."
+    },
+    {
+        "abilityId": 120, 
+        "abilityName": "Audaz",
+        "abilityDescription": "Potencia los movimientos que también dañan al usuario."
+    },
+    {
+        "abilityId": 121, 
+        "abilityName": "Multitipo",
+        "abilityDescription": "Cambia su tipo al de la tabla o al del cristal Z que lleve."
+    },
+    {
+        "abilityId": 122, 
+        "abilityName": "Don floral",
+        "abilityDescription": "Si hace sol, aumenta su ataque y su defensa especial, así como los de sus aliados."
+    },
+    {
+        "abilityId": 123, 
+        "abilityName": "Mal sueño",
+        "abilityDescription": "Inflige daño a cualquier rival que esté dormido."
+    },
+    {
+        "abilityId": 124, 
+        "abilityName": "Hurto",
+        "abilityDescription": "Si el rival usa un movimiento de contacto al atacar, le roba el objeto."
+    },
+    {
+        "abilityId": 125, 
+        "abilityName": "Potencia bruta",
+        "abilityDescription": "Sube la potencia de sus movimientos en detrimento de los efectos secundarios, que se ven anulados."
+    },
+    {
+        "abilityId": 126, 
+        "abilityName": "Respondón",
+        "abilityDescription": "Invierte los cambios en las características: bajan cuando les toca subir y suben cuando les toca bajar."
+    },
+    {
+        "abilityId": 127, 
+        "abilityName": "Nerviosismo",
+        "abilityDescription": "Pone nervioso al rival y le impide usar bayas."
+    },
+    {
+        "abilityId": 128, 
+        "abilityName": "Competitivo",
+        "abilityDescription": "Sube mucho su ataque cuando el rival le baja las características."
+    },
+    {
+        "abilityId": 129, 
+        "abilityName": "Flaqueza",
+        "abilityDescription": "Se debilita tanto cuando sus PS se ven reducidos a la mitad, que su ataque y su ataque especial bajan."
+    },
+    {
+        "abilityId": 130, 
+        "abilityName": "Cuerpo maldito",
+        "abilityDescription": "Puede anular el movimiento usado en su contra."
+    },
+    {
+        "abilityId": 131, 
+        "abilityName": "Alma cura",
+        "abilityDescription": "A veces cura los problemas de estado de un aliado."
+    },
+    {
+        "abilityId": 132, 
+        "abilityName": "Compiescolta",
+        "abilityDescription": "Reduce el daño que sufren los aliados."
+    },
+    {
+        "abilityId": 133, 
+        "abilityName": "Armadura frágil",
+        "abilityDescription": "Al recibir daño por un ataque físico, le baja la defensa, pero le sube mucho la velocidad."
+    },
+    {
+        "abilityId": 134, 
+        "abilityName": "Metal pesado",
+        "abilityDescription": "Duplica su peso."
+    },
+    {
+        "abilityId": 135, 
+        "abilityName": "Metal liviano",
+        "abilityDescription": "Reduce a la mitad su peso."
+    },
+    {
+        "abilityId": 136, 
+        "abilityName": "Multiescamas",
+        "abilityDescription": "Reduce el daño que sufre si sus PS están al máximo."
+    },
+    {
+        "abilityId": 137, 
+        "abilityName": "Ímpetu tóxico",
+        "abilityDescription": "Aumenta la potencia de sus ataques físicos cuando está envenenado."
+    },
+    {
+        "abilityId": 138, 
+        "abilityName": "Ímpetu ardiente",
+        "abilityDescription": "Aumenta la potencia de sus ataques especiales cuando sufre quemaduras."
+    },
+    {
+        "abilityId": 139, 
+        "abilityName": "Cosecha",
+        "abilityDescription": "Puede reutilizar varias veces una misma baya."
+    },
+    {
+        "abilityId": 140, 
+        "abilityName": "Telepatía",
+        "abilityDescription": "Elude los ataques de los aliados durante el combate."
+    },
+    {
+        "abilityId": 141, 
+        "abilityName": "Veleta",
+        "abilityDescription": "Una característica le sube mucho en cada turno, pero le baja otra."
+    },
+    {
+        "abilityId": 142, 
+        "abilityName": "Funda",
+        "abilityDescription": "No le afectan las tormentas de arena, el granizo y los movimientos con polvos."
+    },
+    {
+        "abilityId": 143, 
+        "abilityName": "Toque tóxico",
+        "abilityDescription": "Puede envenenar al objetivo con solo tocarlo."
+    },
+    {
+        "abilityId": 144, 
+        "abilityName": "Regeneración",
+        "abilityDescription": "Recupera unos pocos PS al ser cambiado por otro Pokémon."
+    },
+    {
+        "abilityId": 145, 
+        "abilityName": "Sacapecho",
+        "abilityDescription": "Impide que el rival le baje la defensa."
+    },
+    {
+        "abilityId": 146, 
+        "abilityName": "Ímpetu arena",
+        "abilityDescription": "Aumenta su velocidad durante las tormentas de arena."
+    },
+    {
+        "abilityId": 147, 
+        "abilityName": "Piel milagro",
+        "abilityDescription": "Presenta una mayor resistencia ante los movimientos de estado."
+    },
+    {
+        "abilityId": 148, 
+        "abilityName": "Cálculo final",
+        "abilityDescription": "Aumenta la potencia de su movimiento si es el último en atacar."
+    },
+    {
+        "abilityId": 149, 
+        "abilityName": "Ilusión",
+        "abilityDescription": "Adopta el aspecto del último Pokémon del equipo al entrar en combate para desconcertar al rival."
+    },
+    {
+        "abilityId": 150, 
+        "abilityName": "Impostor",
+        "abilityDescription": "Se transforma en el Pokémon que tiene enfrente."
+    },
+    {
+        "abilityId": 151, 
+        "abilityName": "Allanamiento",
+        "abilityDescription": "Ataca sorteando la barrera o el sustituto del rival."
+    },
+    {
+        "abilityId": 152, 
+        "abilityName": "Momia",
+        "abilityDescription": "Contagia la habilidad momia al rival que entre en contacto con él."
+    },
+    {
+        "abilityId": 153, 
+        "abilityName": "Autoestima",
+        "abilityDescription": "Al debilitar a un objetivo, su confianza se refuerza de tal manera que aumenta su ataque."
+    },
+    {
+        "abilityId": 154, 
+        "abilityName": "Justiciero",
+        "abilityDescription": "Si le alcanza un movimiento de tipo siniestro, aumenta el ataque debido a su integridad."
+    },
+    {
+        "abilityId": 155, 
+        "abilityName": "Cobardía",
+        "abilityDescription": "Si le alcanza un movimiento de tipo siniestro, bicho o fantasma, el miedo hace que le suba la velocidad."
+    },
+    {
+        "abilityId": 156, 
+        "abilityName": "Espejo mágico",
+        "abilityDescription": "Puede devolver los movimientos de estado lanzados por el rival, sin verse afectado por ellos."
+    },
+    {
+        "abilityId": 157, 
+        "abilityName": "Herbívoro",
+        "abilityDescription": "Neutraliza los movimientos de tipo planta y sube su ataque."
+    },
+    {
+        "abilityId": 158, 
+        "abilityName": "Bromista",
+        "abilityDescription": "Sus movimientos de estado tienen prioridad alta."
+    },
+    {
+        "abilityId": 159, 
+        "abilityName": "Poder arena",
+        "abilityDescription": "Potencia los movimientos de tipo tierra, acero y roca durante las tormentas de arena."
+    },
+    {
+        "abilityId": 160, 
+        "abilityName": "Punta acero",
+        "abilityDescription": "Inflige daño al rival si este le golpea con un movimiento de contacto."
+    },
+    {
+        "abilityId": 161, 
+        "abilityName": "Modo Daruma",
+        "abilityDescription": "Cambia de forma si sus PS se ven reducidos a la mitad."
+    },
+    {
+        "abilityId": 162, 
+        "abilityName": "Tinovictoria",
+        "abilityDescription": "Sube su precisión y la de sus aliados."
+    },
+    {
+        "abilityId": 163, 
+        "abilityName": "Turbollama",
+        "abilityDescription": "Las habilidades del objetivo no afectan a los movimientos que emplea."
+    },
+    {
+        "abilityId": 164, 
+        "abilityName": "Terravoltaje",
+        "abilityDescription": "Las habilidades del objetivo no afectan a los movimientos que emplea."
+    },
+    {
+        "abilityId": 165, 
+        "abilityName": "Velo aroma",
+        "abilityDescription": "Se protege a sí mismo y a sus aliados de ataques que impiden elegir movimientos."
+    },
+    {
+        "abilityId": 166, 
+        "abilityName": "Velo flor",
+        "abilityDescription": "Evita que los Pokémon de tipo planta aliados sufran problemas de estado o que les bajen sus características."
+    },
+    {
+        "abilityId": 167, 
+        "abilityName": "Carrillo",
+        "abilityDescription": "Recupera PS al comer cualquier baya."
+    },
+    {
+        "abilityId": 168, 
+        "abilityName": "Mutatipo",
+        "abilityDescription": "Cambia su tipo al del movimiento que va a usar."
+    },
+    {
+        "abilityId": 169, 
+        "abilityName": "Pelaje recio",
+        "abilityDescription": "Reduce a la mitad el daño que recibe de ataques físicos del rival."
+    },
+    {
+        "abilityId": 170, 
+        "abilityName": "Prestidigitador",
+        "abilityDescription": "Roba el objeto del Pokémon al que alcance con un movimiento."
+    },
+    {
+        "abilityId": 171, 
+        "abilityName": "Antibalas",
+        "abilityDescription": "No le afectan las bombas ni algunos proyectiles."
+    },
+    {
+        "abilityId": 172, 
+        "abilityName": "Tenacidad",
+        "abilityDescription": "Aumenta mucho su ataque especial cuando el rival le baja cualquiera de sus características."
+    },
+    {
+        "abilityId": 173, 
+        "abilityName": "Mandíbula fuerte",
+        "abilityDescription": "Su robusta mandíbula le confiere una mordedura potente."
+    },
+    {
+        "abilityId": 174, 
+        "abilityName": "Piel helada",
+        "abilityDescription": "Convierte los movimientos de tipo normal en tipo hielo y aumenta ligeramente su potencia."
+    },
+    {
+        "abilityId": 175, 
+        "abilityName": "Velo dulce",
+        "abilityDescription": "No cae dormido y evita también que sus aliados se duerman."
+    },
+    {
+        "abilityId": 176, 
+        "abilityName": "Cambio táctico",
+        "abilityDescription": "Adopta la forma filo al lanzar un ataque, o bien la forma escudo si usa el movimiento escudo real."
+    },
+    {
+        "abilityId": 177, 
+        "abilityName": "Alas vendaval",
+        "abilityDescription": "Da prioridad a los movimientos de tipo volador si sus PS están al máximo."
+    },
+    {
+        "abilityId": 178, 
+        "abilityName": "Megadisparador",
+        "abilityDescription": "Aumenta la potencia de algunos movimientos de pulsos y auras."
+    },
+    {
+        "abilityId": 179, 
+        "abilityName": "Manto frondoso",
+        "abilityDescription": "Aumenta su defensa si hay un campo de hierba en el terreno de combate."
+    },
+    {
+        "abilityId": 180, 
+        "abilityName": "Simbiosis",
+        "abilityDescription": "Pasa su objeto a un aliado que ya haya utilizado el suyo."
+    },
+    {
+        "abilityId": 181, 
+        "abilityName": "Garra dura",
+        "abilityDescription": "Aumenta la potencia de los movimientos de contacto."
+    },
+    {
+        "abilityId": 182, 
+        "abilityName": "Piel feérica",
+        "abilityDescription": "Convierte los movimientos de tipo normal en tipo hada y aumenta ligeramente su potencia."
+    },
+    {
+        "abilityId": 183, 
+        "abilityName": "Baba",
+        "abilityDescription": "Baja la velocidad del rival cuando este le ataca con un movimiento de contacto."
+    },
+    {
+        "abilityId": 184, 
+        "abilityName": "Piel celeste",
+        "abilityDescription": "Convierte los movimientos de tipo normal en tipo volador y aumenta ligeramente su potencia."
+    },
+    {
+        "abilityId": 185, 
+        "abilityName": "Amor filial",
+        "abilityDescription": "Une fuerzas con su cría y ataca dos veces."
+    },
+    {
+        "abilityId": 186, 
+        "abilityName": "Aura oscura",
+        "abilityDescription": "Aumenta la potencia de todos los movimientos de tipo siniestro."
+    },
+    {
+        "abilityId": 187, 
+        "abilityName": "Aura feérica",
+        "abilityDescription": "Aumenta la potencia de todos los movimientos de tipo hada."
+    },
+    {
+        "abilityId": 188, 
+        "abilityName": "Rompeaura",
+        "abilityDescription": "Invierte los efectos de las auras, por lo que baja la potencia de ciertos movimientos en vez de subirla."
+    },
+    {
+        "abilityId": 189, 
+        "abilityName": "Mar del albor",
+        "abilityDescription": "Altera el clima para anular los ataques de tipo fuego."
+    },
+    {
+        "abilityId": 190, 
+        "abilityName": "Tierra del ocaso",
+        "abilityDescription": "Altera el clima para anular los ataques de tipo agua."
+    },
+    {
+        "abilityId": 191, 
+        "abilityName": "Ráfaga delta",
+        "abilityDescription": "Altera el clima para anular las vulnerabilidades del tipo volador."
+    },
+    {
+        "abilityId": 192, 
+        "abilityName": "Firmeza",
+        "abilityDescription": "Aumenta su defensa al recibir un ataque."
+    },
+    {
+        "abilityId": 193, 
+        "abilityName": "Huida",
+        "abilityDescription": "Se asusta y abandona el terreno de combate cuando sus PS se ven reducidos a la mitad."
+    },
+    {
+        "abilityId": 194, 
+        "abilityName": "Retirada",
+        "abilityDescription": "Abandona el terreno de combate cuando sus PS se ven reducidos a la mitad para evitar males mayores."
+    },
+    {
+        "abilityId": 195, 
+        "abilityName": "Hidrorrefuerzo",
+        "abilityDescription": "Aumenta mucho la defensa si le alcanza un movimiento de tipo agua."
+    },
+    {
+        "abilityId": 196, 
+        "abilityName": "Ensañamiento",
+        "abilityDescription": "Hace que sus movimientos asesten siempre un golpe crítico si el rival está envenenado."
+    },
+    {
+        "abilityId": 197, 
+        "abilityName": "Escudo limitado",
+        "abilityDescription": "Rompe su coraza cuando sus PS se ven reducidos a la mitad y adopta una forma ofensiva."
+    },
+    {
+        "abilityId": 198, 
+        "abilityName": "Vigilante",
+        "abilityDescription": "Si el objetivo de su ataque es sustituido por otro, duplica el daño que infligirá."
+    },
+    {
+        "abilityId": 199, 
+        "abilityName": "Pompa",
+        "abilityDescription": "Reduce el daño que le provocan los movimientos de tipo fuego y es inmune a las quemaduras."
+    },
+    {
+        "abilityId": 200, 
+        "abilityName": "Acero templado",
+        "abilityDescription": "Potencia los movimientos de tipo acero."
+    },
+    {
+        "abilityId": 201, 
+        "abilityName": "Cólera",
+        "abilityDescription": "Aumenta el ataque especial si los ataques del oponente le reducen los PS a la mitad debido a algún ataque."
+    },
+    {
+        "abilityId": 202, 
+        "abilityName": "Quitanieves",
+        "abilityDescription": "Aumenta su velocidad si está granizando."
+    },
+    {
+        "abilityId": 203, 
+        "abilityName": "Remoto",
+        "abilityDescription": "Puede usar cualquier movimiento sin entrar en contacto con el rival."
+    },
+    {
+        "abilityId": 204, 
+        "abilityName": "Voz fluida",
+        "abilityDescription": "Hace que todos sus movimientos que usan sonido pasen a ser de tipo agua."
+    },
+    {
+        "abilityId": 205, 
+        "abilityName": "Primer auxilio",
+        "abilityDescription": "Da prioridad a los movimientos que restauran PS."
+    },
+    {
+        "abilityId": 206, 
+        "abilityName": "Piel eléctrica",
+        "abilityDescription": "Convierte los movimientos de tipo normal en tipo eléctrico y aumenta ligeramente su potencia."
+    },
+    {
+        "abilityId": 207, 
+        "abilityName": "Cola surf",
+        "abilityDescription": "Duplica su velocidad si hay un campo eléctrico en el terreno de combate."
+    },
+    {
+        "abilityId": 208, 
+        "abilityName": "Banco",
+        "abilityDescription": "Forma bancos con sus congéneres cuando tiene muchos PS, lo cual le otorga más fuerza. Cuando le quedan pocos PS, el banco se dispersa."
+    },
+    {
+        "abilityId": 209, 
+        "abilityName": "Disfraz",
+        "abilityDescription": "Puede eludir un ataque valiéndose de la tela que le cubre el cuerpo una vez por combate."
+    },
+    {
+        "abilityId": 210, 
+        "abilityName": "Fuerte afecto",
+        "abilityDescription": "Al derrotar a un rival, los vínculos con su entrenador se refuerzan y se convierte en Greninja Ash. Su shuriken de agua también se ve potenciado."
+    },
+    {
+        "abilityId": 211, 
+        "abilityName": "Agrupamiento",
+        "abilityDescription": "Cuando sus PS se ven reducidos a la mitad, las células se reagrupan y adopta su forma completa."
+    },
+    {
+        "abilityId": 212, 
+        "abilityName": "Corrosión",
+        "abilityDescription": "Puede envenenar incluso a rivales de tipo acero o veneno."
+    },
+    {
+        "abilityId": 213, 
+        "abilityName": "Letargo perenne",
+        "abilityDescription": "No despierta jamás de su profundo letargo e incluso ataca dormido."
+    },
+    {
+        "abilityId": 214, 
+        "abilityName": "Regia presencia",
+        "abilityDescription": "Intimida al objetivo y le impide usar movimientos con prioridad."
+    },
+    {
+        "abilityId": 215, 
+        "abilityName": "Revés",
+        "abilityDescription": "Al caer debilitado, inflige al rival un daño equivalente a los PS que le quedaran."
+    },
+    {
+        "abilityId": 216, 
+        "abilityName": "Pareja de baile",
+        "abilityDescription": "Puede copiar inmediatamente cualquier movimiento de baile que haya usado otro Pokémon presente en el combate."
+    },
+    {
+        "abilityId": 217, 
+        "abilityName": "Batería",
+        "abilityDescription": "Potencia los movimientos especiales de los aliados."
+    },
+    {
+        "abilityId": 218, 
+        "abilityName": "Peluche",
+        "abilityDescription": "Reduce a la mitad el daño provocado por los movimientos de contacto, pero duplica el infligido por los de tipo fuego."
+    },
+    {
+        "abilityId": 219, 
+        "abilityName": "Cuerpo vívido",
+        "abilityDescription": "Desconcierta al rival y le impide utilizar movimientos con prioridad en su contra."
+    },
+    {
+        "abilityId": 220, 
+        "abilityName": "Coránima",
+        "abilityDescription": "Aumenta su ataque especial cada vez que un Pokémon cae debilitado."
+    },
+    {
+        "abilityId": 221, 
+        "abilityName": "Rizos rebeldes",
+        "abilityDescription": "Baja la velocidad del rival cuando este le ataca con un movimiento de contacto."
+    },
+    {
+        "abilityId": 222, 
+        "abilityName": "Receptor",
+        "abilityDescription": "Adquiere la habilidad de un aliado debilitado."
+    },
+    {
+        "abilityId": 223, 
+        "abilityName": "Reacción química",
+        "abilityDescription": "Reacciona copiando la habilidad de un aliado debilitado."
+    },
+    {
+        "abilityId": 224, 
+        "abilityName": "Ultraimpulso",
+        "abilityDescription": "Si derrota a un rival en ese turno, aumenta su característica más fuerte."
+    },
+    {
+        "abilityId": 225, 
+        "abilityName": "Sistema alfa",
+        "abilityDescription": "Cambia su tipo según el disco que lleve instalado."
+    },
+    {
+        "abilityId": 226, 
+        "abilityName": "Electrogénesis",
+        "abilityDescription": "Crea un campo eléctrico al entrar en combate."
+    },
+    {
+        "abilityId": 227, 
+        "abilityName": "Psicogénesis",
+        "abilityDescription": "Crea un campo psíquico al entrar en combate."
+    },
+    {
+        "abilityId": 228, 
+        "abilityName": "Nebulogénesis",
+        "abilityDescription": "Crea un campo de niebla al entrar en combate."
+    },
+    {
+        "abilityId": 229, 
+        "abilityName": "Herbogénesis",
+        "abilityDescription": "Crea un campo de hierba al entrar en combate."
+    },
+    {
+        "abilityId": 230, 
+        "abilityName": "Guardia metálica",
+        "abilityDescription": "Evita que bajen sus características a causa de movimientos o habilidades de otros Pokémon."
+    },
+    {
+        "abilityId": 231, 
+        "abilityName": "Guardia espectro",
+        "abilityDescription": "Reduce el daño que sufre si sus PS están al máximo."
+    },
+    {
+        "abilityId": 232, 
+        "abilityName": "Armadura prisma",
+        "abilityDescription": "Mitiga el daño que le infligen los movimientos supereficaces."
+    },
+    {
+        "abilityId": 233, 
+        "abilityName": "Fuerza cerebral",
+        "abilityDescription": "Potencia los ataques supereficaces."
+    },
+    {
+        "abilityId": 234, 
+        "abilityName": "Fuerza indómita",
+        "abilityDescription": "Aumenta su ataque al entrar en combate."
+    },
+    {
+        "abilityId": 235, 
+        "abilityName": "Escudo recio",
+        "abilityDescription": "Aumenta su defensa al entrar en combate."
+    },
+    {
+        "abilityId": 236, 
+        "abilityName": "Líbero",
+        "abilityDescription": "Cambia su tipo al del movimiento que va a usar."
+    },
+    {
+        "abilityId": 237, 
+        "abilityName": "Recogebolas",
+        "abilityDescription": "Si no lleva equipado ningún objeto, recupera la Poké Ball del primer intento de captura fallido."
+    },
+    {
+        "abilityId": 238, 
+        "abilityName": "Pelusa",
+        "abilityDescription": "Al ser alcanzado por un ataque, suelta una pelusa de algodón que reduce la velocidad de todos los demás Pokémon."
+    },
+    {
+        "abilityId": 239, 
+        "abilityName": "Hélice caudal",
+        "abilityDescription": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos."
+    },
+    {
+        "abilityId": 240, 
+        "abilityName": "Coraza reflejo",
+        "abilityDescription": "Refleja los efectos que reducen las características."
+    },
+    {
+        "abilityId": 241, 
+        "abilityName": "Tragamisil",
+        "abilityDescription": "Tras usar surf o buceo, emerge con una presa en la boca. Al recibir daño, ataca escupiéndola al rival."
+    },
+    {
+        "abilityId": 242, 
+        "abilityName": "Acérrimo",
+        "abilityDescription": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos."
+    },
+    {
+        "abilityId": 243, 
+        "abilityName": "Combustible",
+        "abilityDescription": "Si le alcanza un movimiento de tipo fuego o tipo agua, le sube muchísimo la velocidad."
+    },
+    {
+        "abilityId": 244, 
+        "abilityName": "Punk Rock",
+        "abilityDescription": "Potencia los movimientos que usan sonido y reduce a la mitad el daño que le infligen dichos movimientos."
+    },
+    {
+        "abilityId": 245, 
+        "abilityName": "Expulsarena",
+        "abilityDescription": "Provoca una tormenta de arena al recibir un ataque."
+    },
+    {
+        "abilityId": 246, 
+        "abilityName": "Escama de hielo",
+        "abilityDescription": "Las gélidas escamas que protegen su cuerpo reducen a la mitad el daño que le infligen los ataques especiales."
+    },
+    {
+        "abilityId": 247, 
+        "abilityName": "Maduración",
+        "abilityDescription": "Hace madurar las bayas, por lo que duplica sus efectos."
+    },
+    {
+        "abilityId": 248, 
+        "abilityName": "Cara de hielo",
+        "abilityDescription": "Absorbe el daño de un ataque físico con el hielo de la cabeza, tras lo cual cambia de forma. El hielo se regenerará la próxima vez que granice."
+    },
+    {
+        "abilityId": 249, 
+        "abilityName": "Fuente energía",
+        "abilityDescription": "Potencia los movimientos de los Pokémon adyacentes."
+    },
+    {
+        "abilityId": 250, 
+        "abilityName": "Mimetismo",
+        "abilityDescription": "Cambia su tipo según el campo que haya en el terreno de combate."
+    },
+    {
+        "abilityId": 251, 
+        "abilityName": "Antibarrera",
+        "abilityDescription": "Anula los efectos de pantalla de luz, reflejo y velo aurora tanto de rivales como de aliados al entrar en combate."
+    },
+    {
+        "abilityId": 252, 
+        "abilityName": "Alma acerada",
+        "abilityDescription": "Potencia los movimientos de tipo acero de los aliados."
+    },
+    {
+        "abilityId": 253, 
+        "abilityName": "Cuerpo mortal",
+        "abilityDescription": "Si le alcanza un movimiento de contacto, se debilitará al cabo de 3 turnos, así como su agresor, a menos que abandonen el terreno de combate."
+    },
+    {
+        "abilityId": 254, 
+        "abilityName": "Alma errante",
+        "abilityDescription": "Si le alcanza un movimiento de contacto, intercambia su habilidad con la del agresor."
+    },
+    {
+        "abilityId": 255, 
+        "abilityName": "Monotema",
+        "abilityDescription": "Potencia su ataque, pero solo puede usar el primer movimiento escogido."
+    },
+    {
+        "abilityId": 256, 
+        "abilityName": "Gas reactivo",
+        "abilityDescription": "Anula los efectos de las habilidades de los demás Pokémon presentes mientras esté en el terreno de combate."
+    },
+    {
+        "abilityId": 257, 
+        "abilityName": "Velo pastel",
+        "abilityDescription": "Se protege a sí mismo y a sus aliados del envenenamiento."
+    },
+    {
+        "abilityId": 258, 
+        "abilityName": "Mutapetito",
+        "abilityDescription": "Alterna entre su forma saciada y forma voraz al final de cada turno."
+    },
+    {
+        "abilityId": 259, 
+        "abilityName": "Mano rápida",
+        "abilityDescription": "A veces, puede atacar el primero."
+    },
+    {
+        "abilityId": 260, 
+        "abilityName": "Puño invisible",
+        "abilityDescription": "Si usa un movimiento de contacto, puede infligir daño al objetivo aunque este se proteja."
+    },
+    {
+        "abilityId": 261, 
+        "abilityName": "Medicina extraña",
+        "abilityDescription": "Al entrar en combate, rezuma una substancia medicinal por la caracola que revierte los cambios en las características de los aliados."
+    },
+    {
+        "abilityId": 262, 
+        "abilityName": "Transistor",
+        "abilityDescription": "Potencia los movimientos de tipo eléctrico."
+    },
+    {
+        "abilityId": 263, 
+        "abilityName": "Mandíbula dragón",
+        "abilityDescription": "Potencia los movimientos de tipo dragón."
+    },
+    {
+        "abilityId": 264, 
+        "abilityName": "Relincho blanco",
+        "abilityDescription": "Al derrotar a un objetivo, emite un relincho gélido y aumenta su ataque."
+    },
+    {
+        "abilityId": 265, 
+        "abilityName": "Relincho negro",
+        "abilityDescription": "Al derrotar a un objetivo, emite un relincho aterrador y aumenta su ataque especial."
+    },
+    {
+        "abilityId": 266, 
+        "abilityName": "Unidad ecuestre",
+        "abilityDescription": "El Pokémon tiene dos habilidades: relincho blanco de Glastrier y nerviosismo de Calyrex."
+    },
+    {
+        "abilityId": 267, 
+        "abilityName": "Unidad ecuestre",
+        "abilityDescription": "El Pokémon tiene dos habilidades: relincho negro de Spectrier y nerviosismo de Calyrex."
+    }
+]

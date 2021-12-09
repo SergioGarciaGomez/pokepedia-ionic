@@ -1,0 +1,36 @@
+#container {
+    
+    .description {
+        font-size: 1.3rem;
+    }
+
+    .dataContainer {
+        background-color: #30A7D7;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1em;
+        border-radius: 10px;
+        margin: 20px 0px;
+
+        .text {
+            font-weight: bold;
+            color: black;
+            margin: 20px;
+            font-size: 1.2rem;
+        }
+
+        span {
+            color: #fff;
+            font-weight: bold;
+        }
+
+        ion-icon {
+            opacity: 0.5;
+            margin: 5px;
+            font-size: 1.2rem;
+            border-radius: 50%;
+            cursor: pointer;
+            &:hover {opacity: 1; transform: scale(1.4); }
+        }
+    }
+}

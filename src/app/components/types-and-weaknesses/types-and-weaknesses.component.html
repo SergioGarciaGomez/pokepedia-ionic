@@ -1,0 +1,54 @@
+<div id="container">
+
+  <div id="typesContainer">
+    <div>Tipo <br></div> 
+    <div class="types">
+      <div class="typeBox" *ngFor="let t of pokemon.type">
+          <div id="grassType" class="typeBox" *ngIf="t === 'Planta'">{{t}}</div>
+          <div id="fireType" class="typeBox" *ngIf="t === 'Fuego'">{{t}}</div>
+          <div id="waterType" class="typeBox" *ngIf="t === 'Agua'">{{t}}</div>
+          <div id="flyingType" class="typeBox" *ngIf="t === 'Volador'">{{t}}</div>
+          <div id="bugType" class="typeBox" *ngIf="t === 'Bicho'">{{t}}</div>
+          <div id="fightingType" class="typeBox" *ngIf="t === 'Lucha'">{{t}}</div>
+          <div id="normalType" class="typeBox" *ngIf="t === 'Normal'">{{t}}</div>
+          <div id="ghostType" class="typeBox" *ngIf="t === 'Fantasma'">{{t}}</div>
+          <div id="groundType" class="typeBox" *ngIf="t === 'Tierra'">{{t}}</div>
+          <div id="steelType" class="typeBox" *ngIf="t === 'Acero'">{{t}}</div>
+          <div id="electricType" class="typeBox" *ngIf="t === 'Eléctrico'">{{t}}</div>
+          <div id="psychicType" class="typeBox" *ngIf="t === 'Psíquico'">{{t}}</div>
+          <div id="darkType" class="typeBox" *ngIf="t === 'Siniestro'">{{t}}</div>
+          <div id="iceType" class="typeBox" *ngIf="t === 'Hielo'">{{t}}</div>
+          <div id="poisonType" class="typeBox" *ngIf="t === 'Veneno'">{{t}}</div>
+          <div id="rockType" class="typeBox" *ngIf="t === 'Roca'">{{t}}</div>
+          <div id="dragonType" class="typeBox" *ngIf="t === 'Dragón'">{{t}}</div>
+          <div id="fairyType" class="typeBox" *ngIf="t === 'Hada'">{{t}}</div>
+      </div>
+    </div>
+  </div>
+
+  <div id="weaknessesContainer">
+    <div>Debilidad <br></div> 
+    <div class="weaknesses">
+      <div class="weaknessBox" *ngFor="let w of pokemon.weakness">
+          <div id="grassType" class="weaknessBox" *ngIf="w === 'Planta'">{{w}}</div>
+          <div id="fireType" class="weaknessBox" *ngIf="w === 'Fuego'">{{w}}</div>
+          <div id="waterType" class="weaknessBox" *ngIf="w === 'Agua'">{{w}}</div>
+          <div id="flyingType" class="weaknessBox" *ngIf="w === 'Volador'">{{w}}</div>
+          <div id="bugType" class="weaknessBox" *ngIf="w === 'Bicho'">{{w}}</div>
+          <div id="fightingType" class="weaknessBox" *ngIf="w === 'Lucha'">{{w}}</div>
+          <div id="normalType" class="weaknessBox" *ngIf="w === 'Normal'">{{w}}</div>
+          <div id="ghostType" class="weaknessBox" *ngIf="w === 'Fantasma'">{{w}}</div>
+          <div id="groundType" class="weaknessBox" *ngIf="w === 'Tierra'">{{w}}</div>
+          <div id="steelType" class="weaknessBox" *ngIf="w === 'Acero'">{{w}}</div>
+          <div id="electricType" class="weaknessBox" *ngIf="w === 'Eléctrico'">{{w}}</div>
+          <div id="psychicType" class="weaknessBox" *ngIf="w === 'Psíquico'">{{w}}</div>
+          <div id="darkType" class="weaknessBox" *ngIf="w === 'Siniestro'">{{w}}</div>
+          <div id="iceType" class="weaknessBox" *ngIf="w === 'Hielo'">{{w}}</div>
+          <div id="poisonType" class="weaknessBox" *ngIf="w === 'Veneno'">{{w}}</div>
+          <div id="rockType" class="weaknessBox" *ngIf="w === 'Roca'">{{w}}</div>
+          <div id="dragonType" class="weaknessBox" *ngIf="w === 'Dragón'">{{w}}</div>
+          <div id="fairyType" class="weaknessBox" *ngIf="w === 'Hada'">{{w}}</div>
+      </div>
+    </div>
+  </div>
+</div>

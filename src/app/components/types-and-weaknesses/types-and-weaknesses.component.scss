@@ -1,0 +1,49 @@
+#container {
+    background-color: rgb(47, 47, 47);
+    border-radius: 10px;
+
+    div {
+        color: white;
+        font-weight: bold;
+        font-size: 1.2rem;
+        padding: 5px 0;
+    }
+
+    #typesContainer {
+
+        // Caja general de los tipos del Pokémon
+        .types {
+            display: flex;
+            flex-wrap: wrap;
+            font-family: Arial;
+            font-weight: bold;
+
+            // Cajita única del tipo del Pokémon 
+            .typeBox {
+                width: 100%;
+                padding: 10px;
+                text-align: center;
+                border-radius: 7px;
+            }
+        }
+    }
+
+    #weaknessesContainer {
+
+        // Caja general de los tipos del Pokémon
+        .weaknesses {
+            display: flex;
+            flex-wrap: wrap;
+            font-family: Arial;
+            font-weight: bold;
+
+            // Cajita única del tipo del Pokémon 
+            .weaknessBox {
+                width: 100%;
+                padding: 10px;
+                text-align: center;
+                border-radius: 7px;
+            }
+        }
+    }
+}
