@@ -12,9 +12,6 @@
     Ordenar por...
   </ion-button>
   <ion-card *ngFor="let pokemon of pokemons">
-    <ion-buttons class="favorite">
-      <ion-icon id="add-to-favorites" slot="icon-only" name="star-outline"></ion-icon>
-    </ion-buttons>
     <img src="../../../assets/images/pokemons/{{pokemon.image}}" width="205px" height="205px" (click)="goPokemonInfo(pokemon.id)"/>
     <ion-card-header>
       <ion-card-subtitle>
