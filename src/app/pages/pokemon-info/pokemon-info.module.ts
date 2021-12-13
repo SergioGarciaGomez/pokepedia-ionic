@@ -6,7 +6,6 @@ import { PokemonInfoPageRoutingModule } from './pokemon-info-routing.module';
 import { PokemonInfoPage } from './pokemon-info.page';
 import { DataAndDescriptionComponent } from 'src/app/components/data-and-description/data-and-description.component';
 import { TypesAndWeaknessesComponent } from 'src/app/components/types-and-weaknesses/types-and-weaknesses.component';
-import { ChartStatsComponent } from 'src/app/components/chart-stats/chart-stats.component';
 
 @NgModule({
   imports: [
@@ -15,6 +14,6 @@ import { ChartStatsComponent } from 'src/app/components/chart-stats/chart-stats.
     IonicModule,
     PokemonInfoPageRoutingModule
   ],
-  declarations: [PokemonInfoPage, DataAndDescriptionComponent, TypesAndWeaknessesComponent, ChartStatsComponent]
+  declarations: [PokemonInfoPage, DataAndDescriptionComponent, TypesAndWeaknessesComponent]
 })
 export class PokemonInfoPageModule {}

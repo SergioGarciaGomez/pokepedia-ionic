@@ -20,11 +20,11 @@
           <div *ngFor="let a of getAbilitiesFromPokemon(pokemon)">
               <!-- Ventanas emergentes para mostrar la info de habilidad en función de si es la primera, o la segunda habilidad -->
               <div *ngIf="getAbilitiesFromPokemon(pokemon)[0].abilityId === a.abilityId">
-                <div>{{a.abilityName}} <ion-icon name="information-circle-outline"></ion-icon></div>
+                <div>{{a.abilityName}}</div>
               </div>
 
               <div *ngIf="getAbilitiesFromPokemon(pokemon)[0].abilityId != a.abilityId">
-                <div>{{a.abilityName}} <ion-icon name="information-circle-outline"></ion-icon></div>
+                <div>{{a.abilityName}}</div>
               </div>
           </div>
       </div>

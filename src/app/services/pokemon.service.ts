@@ -5,6 +5,7 @@ import { Pokemon } from '../interfaces/pokemon';
 // HTTP PARA LEER EL .JSON
 import { HttpClient } from '@angular/common/http';
 
+
 @Injectable({
   providedIn: 'root'
 })
